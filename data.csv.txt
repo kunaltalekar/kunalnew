@@ -1,0 +1,8 @@
+name,city,age,salary
+kunal,akole,26,26462
+ankit,pune,26,266546
+komal,mumbai,45,26545263
+raju,akole,56,22612
+Super,pune,45,3653
+kailas,mumbai,74,45552		
+	
